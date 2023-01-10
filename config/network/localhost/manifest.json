@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "COSIMA",
+    "serverName": "C.O.S.I.M.A.",
     "iconName": "cion.jpg",
-    "terminalID": "Y56",
+    "terminalID": "cos",
     "defaultUser": {
         "userId": "user",
         "password": "",
